@@ -6,7 +6,7 @@
       <a {% if currentUrl === '/' %}aria-current="page"{% endif %} href="/">Home</a>
     </li>
 
-    {% for page in collections.pages %}
+    {% for page in collections.pages | sort(attribute='data.navOrder') %}
     <li>
       <a 
         {% if currentUrl === page.url %}aria-current="page"{% endif %} 
