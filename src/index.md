@@ -1,47 +1,90 @@
 ---
-title: Smol 11ty Starter
+title: Wildwood Forest School
 layout: page.njk
 ---
 
 ## {{ meta.siteDescription }}
 
-Created by Stephanie Eckles - [@5t3ph](https://twitter.com/5t3ph) - author of [11ty.Rocks](https://11ty.rocks), [ModernCSS.dev](https://moderncss.dev), and [SmolCSS.dev](https://smolcss.dev).
+## A Christian, Self-Directed, Nature-Based Learning Community
 
-### Quick Start
+Wildwood Forest School exists to provide children with rich, earthy experiences that cultivate strength of character, internal motivation, and preparedness for an uncertain world.
 
-1. [Generate a repo from this template](https://github.com/5t3ph/smol-11ty-starter/generate) which will copy this project into your own new repo. _Note: You must be signed in to GitHub for this link to work_, else [visit the repo directly](https://github.com/5t3ph/smol-11ty-starter/).
+We operate within an explicitly Christian environment, grounded in the belief that every child is created with inherent dignity, value, and purpose. Our work is shaped by a conviction that education is not primarily about control, compliance, or standardisation, but about forming whole people who are capable, resilient, curious, and deeply human.
 
-1. Once cloned, run `npm install` to install 11ty. Then run `npm start` to run 11ty in `serve` mode which will create a local server including hot-reload via BrowserSync.
+Wildwood is not a school in the conventional sense. It is a learning community.
 
-   - Use `npm run build` to run a production version.
+---
 
-1. Open `src/_data/meta.js` and adjust the values to your details.
+## Our Philosophy
 
-1. Edit `index.md` to change the home page, and then create content within `src/pages` using any templating format you prefer to add content.
+Wildwood is guided by three foundational frameworks that shape how we design environments, make decisions, and relate to children.
 
-> Review the resources available at [11ty Rocks](https://11ty.rocks) to learn how to apply more customizations, including adding custom data sources and reviewing what template languages are available.
+### Imago Dei
 
-## Learn More About Eleventy
+We believe each child is created in the image of God.  
+This conviction places inherent worth, agency, and moral significance at the centre of our work. Children are not problems to be managed or vessels to be filled, but persons to be respected, entrusted, and formed.
 
-- Get the highlights in my [14 minute feature overview](https://youtu.be/p81J7G1qFAM)
-- Enjoy written tutorials? Start with my post on [creating your first Eleventy website](https://11ty.rocks/posts/create-your-first-basic-11ty-website/)
-- Enjoy video tutorials? Learn to [build an Eleventy site including Sass](https://5t3ph.dev/learn-11ty) in my 20 minute egghead course
+### Self-Determination Theory
 
-## Resources For Building With Eleventy
+Human beings flourish when three core needs are supported:
 
-- You may want to swap to [use Sass instead of CSS](https://github.com/5t3ph/11ty-sass-skeleton) and include minifying/autoprefixing (you can copy the relevant bits from the config and the package scripts/dependencies)
-- Review [additional common config customizations](https://11ty.rocks/eleventyjs/)
-- Check out some [quick tips](https://11ty.rocks/tips/) to learn more about using Eleventy's features
-- Add automatically generated [social images with my plugin](https://www.npmjs.com/package/@11tyrocks/eleventy-plugin-social-images)
+- Autonomy — meaningful choice and ownership  
+- Competence — growing real skill and capability  
+- Relatedness — connection to others, place, and purpose  
 
-### Icing chocolate fruitcake bear claw bonbon
+Rather than relying on coercion, rewards, or punishment, we seek to create environments that naturally support these needs.
 
-Icing chocolate fruitcake bear claw bonbon. Ice cream tiramisu sesame snaps marshmallow carrot cake sesame snaps. Powder jelly-o soufflé powder dragée caramels jelly-o chupa chups. Sweet roll chocolate cake candy canes wafer lollipop caramels chupa chups. Wafer powder donut powder croissant donut ice cream macaroon fruitcake. Donut powder fruitcake bear claw liquorice gingerbread toffee. Powder biscuit marzipan.
+### Flow State
 
-<!-- Provided within _data/catpic.js -->
+Deep learning emerges when children are fully engaged in meaningful activity — when challenge and skill are well matched, attention becomes focused, and motivation comes from within. We prioritise conditions that allow this kind of engagement to arise naturally.
 
-![cat of the day]({{ catpic }})
+---
 
-Macaroon cheesecake cupcake cotton candy jujubes cupcake. Chocolate sweet sugar plum candy dessert sesame snaps pie. Chocolate cake carrot cake cake macaroon cotton candy brownie tart sugar plum. Icing chocolate caramels macaroon marzipan cookie candy. Sugar plum pie sweet roll chocolate bar chocolate cake jujubes jelly beans lollipop. Caramels muffin toffee bonbon icing wafer toffee tiramisu lemon drops. Sweet jujubes fruitcake bonbon cake donut. Liquorice sweet roll bonbon chocolate bar candy canes marshmallow biscuit chocolate cake marshmallow.
+## Our Approach to Learning
 
-Cupcake pudding oat cake. Halvah candy canes gingerbread tiramisu chupa chups lollipop. Toffee toffee cake. Jelly beans jelly beans chupa chups liquorice dessert donut caramels. Cake caramels jelly-o cake. Cake sweet donut soufflé pudding pie fruitcake gummies.
+Wildwood does not follow a rigid curriculum or timetable. Instead, we provide conditions that allow learning to emerge organically.
+
+Our programs are **unstructured yet supported**. Children are free to choose how they engage, while adults remain present, attentive, and responsive — offering guidance, boundaries, and care where needed, without directing or controlling outcomes.
+
+We emphasise:
+
+- Time — unhurried, uninterrupted time for deep engagement  
+- Place — natural environments that invite responsibility and exploration  
+- Adults — calm, observant guides rather than instructors or enforcers  
+
+Learning at Wildwood is inseparable from life. Children learn through doing, through trial and error, through observation, conversation, and responsibility. Growth is gradual, embodied, and deeply personal.
+
+---
+
+## Faith and Culture
+
+Wildwood operates explicitly within a Christian worldview.
+
+All our staff are Christians, and we understand our work at Wildwood as a form of ministry. Our role is not only to supervise or facilitate activities, but to care for children with seriousness, humility, and love.
+
+The Bible is opened and read at all Wildwood programs.
+
+We do not compel belief, but we are honest about the foundations that shape our work. Families who join Wildwood understand that our culture, language, and values are shaped by Christian convictions about human dignity, work, responsibility, forgiveness, and hope.
+
+---
+
+## Who Wildwood Is For
+
+Wildwood is for families seeking something different from conventional, compliance-driven education.
+
+It is suited to those who value:
+
+- environments that respect children as moral agents  
+- learning that is embodied, relational, and meaningful  
+- freedom paired with responsibility  
+- a Christian cultural foundation  
+- preparation for a world that cannot be fully predicted or standardised  
+
+Wildwood is intentionally small, relational, and grounded. We are not trying to be everything for everyone.
+
+---
+
+Childhood is brief.  
+The days are long, but the years are short.
+
+At Wildwood, we seek to honour this fleeting season — to give children time, space, and care to grow into themselves, to experience joy, wonder, and meaningful work, and to be known and cherished.
