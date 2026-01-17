@@ -1,6 +1,7 @@
 ---
 title: FAQ
 layout: page.njk
+navOrder: 3
 ---
 
 ## What ages do you cater for?
