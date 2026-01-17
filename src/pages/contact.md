@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: page.njk
+navOrder: 4
 ---
 
 Before getting in touch, please read:
