@@ -4,7 +4,7 @@ layout: page.njk
 navOrder: 1
 ---
 
-This page is updated each term. If a program is not listed here, it is not currently running.
+![exploring local creeks](/images/children-on-log-over-creek.jpg)
 
 ## Currently running
 ### Robertson Forest School Days
