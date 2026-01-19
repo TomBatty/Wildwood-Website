@@ -35,7 +35,9 @@ booking a spot for the term costs at least $800. Surfing lessons cost an additio
 
 ### Phoenix Project
 We take broken cars, donated by the community, repair them and then donate them on to families affected by domestic violence.
-A hands on mechanical program with real world outcomes for 14-15 year old boys
+
+A hands on mechanical program with real world outcomes for 14-15 year old boys.
+
 Wednesdays 9 till 11.30
 
 **Cost:**
