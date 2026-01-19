@@ -6,7 +6,7 @@ navOrder: 2
 
 Wildwood Forest School is grounded in self-directed learning, time outdoors, and respect for children as capable people.
 
-![girls blacksmithing](/images/girls-blacksmithing.jpg)
+![Wildwood in action](/images/Wildwood-46.jpg)
 
 We value:
 - Autonomy and intrinsic motivation  
