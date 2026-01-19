@@ -3,7 +3,7 @@ title: Wildwood Forest School
 layout: page.njk
 ---
 
-![Wildwood in action](Wildwood-46.jpg)
+![Wildwood in action](/images/Wildwood-46.jpg)
 
 ## A Christian, Self-Directed, Nature-Based Learning Community
 
