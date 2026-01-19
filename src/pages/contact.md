@@ -4,10 +4,7 @@ layout: page.njk
 navOrder: 4
 ---
 
-Before getting in touch, please read:
-- Programs
-- Practical Info
-- FAQ
+
 
 For enquiries contact Madeline,
 
@@ -15,4 +12,6 @@ For enquiries contact Madeline,
 
 **0425367403**
 
-Please include your child’s age and availability.
+Please let us know what program you are interested in, the age, gender of your child. 
+
+Once we have touched base, we will send you our application form and from there we can line up an obligation free trial day. 
