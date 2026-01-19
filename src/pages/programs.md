@@ -9,10 +9,13 @@ This page is updated each term. If a program is not listed here, it is not curre
 ## Currently running
 ### Robertson Forest School Days
 Our bread and butter program - 5 hours of nature based, self directed earthy adventures.
+
 **Young Ones**
 A mixed group for ages 5 to 8, Wednesdays, 9.30 till 2.30
+
 **All Boys**
 A boys only group for ages 9 to 16, Thursdays, 9.30 till 2.30
+
 **Mixed** 
 A mixed group for ages 9 to 16, Fridays, 9.30 till 2.30
   
