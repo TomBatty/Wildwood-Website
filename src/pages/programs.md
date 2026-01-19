@@ -1,4 +1,4 @@
----
+![children-sitting-in-circle-in-forest](https://github.com/user-attachments/assets/51831ec1-0d7e-4f3c-8c90-01c749a9f071)---
 title: Programs
 layout: page.njk
 navOrder: 1
@@ -8,7 +8,7 @@ navOrder: 1
 This page is updated each term. If a program is not listed here, it is not currently running.
 
 ## Currently running
-
+![cooking mushrooms](/images/children-sitting-in-circle-in-forest.jpg)
 ### Wildwood Forest School (Core Days)
 **Ages:** ___  
 **Days:** ___  
