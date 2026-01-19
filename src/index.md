@@ -3,7 +3,7 @@ title: Wildwood Forest School
 layout: page.njk
 ---
 
-![Wildwood in action](/images/Wildwood-46.jpg)
+![cooking mushrooms](/images/children-sitting-in-circle-in-forest.jpg)
 
 ## A Christian, Self-Directed, Nature-Based Learning Community
 
