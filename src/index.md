@@ -3,6 +3,8 @@ title: Wildwood Forest School
 layout: page.njk
 ---
 
+![Wildwood in action](Wildwood-46.jpg)
+
 ## A Christian, Self-Directed, Nature-Based Learning Community
 
 Wildwood Forest School exists to provide children with rich, earthy experiences that cultivate strength of character, internal motivation, and preparedness for an uncertain world.
