@@ -1,3 +1,4 @@
+---
 title: Programs
 layout: page.njk
 navOrder: 1
@@ -6,7 +7,6 @@ navOrder: 1
 This page is updated each term. If a program is not listed here, it is not currently running.
 
 ## Currently running
-![cooking mushrooms](/images/children-sitting-in-circle-in-forest.jpg)
 ### Wildwood Forest School (Core Days)
 **Ages:** ___  
 **Days:** ___  
