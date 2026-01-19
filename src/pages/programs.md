@@ -41,7 +41,7 @@ A hands on mechanical program with real world outcomes for 14-15 year old boys.
 Wednesdays 9 till 11.30
 
 **Cost:**
-$75per session
+$75 per session
 
 ---
 
