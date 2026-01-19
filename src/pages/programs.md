@@ -3,6 +3,7 @@ title: Programs
 layout: page.njk
 navOrder: 1
 ---
+![Wildwood in action](/images/girls-blacksmithing.jpg)
 
 This page is updated each term. If a program is not listed here, it is not currently running.
 
