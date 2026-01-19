@@ -7,49 +7,40 @@ navOrder: 1
 This page is updated each term. If a program is not listed here, it is not currently running.
 
 ## Currently running
-### Wildwood Forest School (Core Days)
-**Ages:** ___  
-**Days:** ___  
-**Times:** ___  
-**What it is:**  
-A nature-based, self-directed day with lots of time outdoors, free play, practical skills, making, and community rhythms.
-
-**Availability:** ___ (e.g. “Limited places” / “Waitlist” / “Enrolling now”)  
-**Cost:** ___  
-**How to join:** See **Enrolment** and then contact us.
-
----
-
-### Wildwood Schoolhouse
-**Ages:** ___  
-**Days:** ___  
-**What it is:**  
-Academic mornings supported by tools and projects, followed by nature-based afternoons.
-
-**Availability:** ___  
-**Cost:** ___
+### Robertson Forest School Days
+Our bread and butter program - 5 hours of nature based, self directed earthy adventures.
+**Young Ones**
+A mixed group for ages 5 to 8, Wednesdays, 9.30 till 2.30
+**All Boys**
+A boys only group for ages 9 to 16, Thursdays, 9.30 till 2.30
+**Mixed** 
+A mixed group for ages 9 to 16, Fridays, 9.30 till 2.30
+  
+**Cost:**
+booking a spot for the term costs $800.
 
 ---
 
-### Wildwood Phoenix Project (Teens)
-**Ages:** ___  
-**Days:** ___  
-**What it is:**  
-Hands-on mechanical/metalwork style projects with responsibility, teamwork, and real-world outcomes.
+### Kiama Ocean School
+Just like our forest school program but on the coast. Rock pools, surfing lessons, ocean tucker and games on the beach.
+Mixed group for ages 10 to 16, Tuesdays 9.30 till 2.30
 
-**Availability:** ___  
-**Cost:** ___
+**Cost:**
+booking a spot for the term costs at least $800. Surfing lessons cost an additional $40 everytime they happen.
 
 ---
 
-## Occasionally / seasonal programs
-List anything that runs some terms only.
+### Phoenix Project
+We take broken cars, donated by the community, repair them and then donate them on to families affected by domestic violence.
+A hands on mechanical program with real world outcomes for 14-15 year old boys
+Wednesdays 9 till 11.30
 
-- **Wildwood Ocean School** — brief description + when it runs
-- **Special workshops** — brief description
+**Cost:**
+$75per session
+
+---
 
 ## Enrolment and enquiries
-Before messaging, please read:
-- **Practical Info**
-- **Enrolment**
-- **Contact**
+Please send us an email to line up a no obligation trial day for any of our programs
+wildwoodsdfs@gmail.com
+
