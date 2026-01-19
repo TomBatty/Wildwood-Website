@@ -1,9 +1,7 @@
-![children-sitting-in-circle-in-forest](https://github.com/user-attachments/assets/51831ec1-0d7e-4f3c-8c90-01c749a9f071)---
 title: Programs
 layout: page.njk
 navOrder: 1
 ---
-![girls blacksmithing](/images/girls-blacksmithing.jpg)
 
 This page is updated each term. If a program is not listed here, it is not currently running.
 
